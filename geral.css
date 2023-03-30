@@ -1,1 +1,30 @@
+:root{
+    --cor_de_fundo_um:#5027D9;
+    --cor_letra_fundo_escuro: #D9C827;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.banner {
+    width: 100%;
+    height: 100px;
+    background-color: var(--cor_de_fundo_um);
+}
+.estudante {
+    height:90px;
+    width: 8%;
+
+}
+
+.conteudo{
+    width: 100%;
+    height: 500px;
+    background-color: var(--cor_letra_fundo_escuro);
+}
+.rodape {
+    width: 100%;
+    height: 50px;
+    background-color: var(--cor_de_fundo_um);
+}
 
