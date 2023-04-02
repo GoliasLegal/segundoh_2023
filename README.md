@@ -1,4 +1,4 @@
-Projeto da Glawber n10, e do Maria n27
+Projeto do Glawber n10, e de Maria n27
 
 # Problema: Moradores de rua em Maringá.
 
