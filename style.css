@@ -1,5 +1,5 @@
 :root {
-  --fundo:#1780c5;
+  --fundo:#dddddd;
   --txt: #000000;
   --fundofoto: #36d365;
   --tamanho1: 48px; 
@@ -38,7 +38,7 @@
 
  .menuPrincipal {
   position: absolute;
-  background: 		#cfff83 ;     
+  background: 		hsl(2, 100%, 59%) ;     
   width: 100%;
   height:var(--tamanho1);
   top: 0;
@@ -46,7 +46,7 @@
   color: var(--txt);
   font-size: 40px;
   min-width: 960px;
-  border: 5px solid rgb(69, 134, 16) ;
+  border: 5px solid rgb(245, 131, 38) ;
   display: flex; 
   justify-content: center; 
 }
@@ -66,7 +66,7 @@
  font-family: "Times New Roman", Times, serif;
  }
  li a:hover{
- background: 		#6e9e74;
+ background: 		#922020;
  color:black;
  font-size:98%;
  }
