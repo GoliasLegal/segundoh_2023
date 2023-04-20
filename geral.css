@@ -37,18 +37,18 @@
   
   
    .menuPrincipal {
-    position: relative;
-    background: 		hsl(2, 100%, 59%) ;     
-    width: 100%;
-    height:var(--tamanho1);
-    top: 0;
-    left: 0;
-    color: var(--txt);
-    font-size: 40px;
-    min-width: 960px;
-    border: 5px solid rgb(245, 131, 38) ;
-    display: flex; 
-    justify-content: center; 
+   text-align: center;
+  position: relative;
+    background: 		hsl(2, 100%, 59%) ;    
+  height:var(--tamanho1);
+  top: 0;
+  left: 0;
+  color: var(--txt);
+  font-size: 40px;
+  min-width: 960px;
+  border: 5px solid rgb(16, 87, 134) ;
+  display: flex; 
+  justify-content: center; 
   }
    nav ul{
    list-style-type:none;
