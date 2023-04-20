@@ -103,7 +103,7 @@
     height: auto;
     max-width: 840px;
      max-height: 540px;
-     border: 20px outset var(--fundofoto);
+     border: 12px outset var(--fundofoto);
      border-radius: 380px;
      min-width: 960px;
      left: 50%;
