@@ -37,7 +37,7 @@
   
   
    .menuPrincipal {
-    position: absolute;
+    position: relative;
     background: 		hsl(2, 100%, 59%) ;     
     width: 100%;
     height:var(--tamanho1);
