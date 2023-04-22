@@ -17,7 +17,7 @@
   
   
   
-}
+
    h1 {
    text-align: center;
    padding: 60px 12px;
@@ -33,7 +33,15 @@
     position: relative; 
     margin: 38px 38px; 
    }
-  
+   pre {
+    padding: 10px;
+    text-align: center;
+    color: var(--txt);
+   font-size: 31px;
+   min-width: 960px;
+   position: relative; 
+   margin: 38px 38px; 
+   }
   /*Serve como garantia de que não tera scroll, bem, quase, depende do tamanho do texto.*/
 .garantia{
   font-size: 20px;
